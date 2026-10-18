@@ -18,7 +18,7 @@ const bookLinks = {
   "uncle_tom": "https://www.amazon.com/s?k=Uncle%20Tom%E2%80%99s%20Cabin%20Harriet%20Beecher%20Stowe",
   "animal_farm": "https://www.amazon.com/s?k=Animal%20Farm%20George%20Orwell",
   "win_friends": "https://www.amazon.com/s?k=How%20to%20Win%20Friends%20%26%20Influence%20People%20Dale%20Carnegie",
-  "tuttle_twins": "https://www.amazon.com/s?k=The%20Tuttle%20Twins%20Collection%20Connor%20Boyack%20%C2%B7%20Illustrated%20by%20Elijah%20Stanfield"
+  "tuttle_twins": "https://a.co/d/0ee6ZMpV"
 };
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll("[data-book]").forEach(el => {
