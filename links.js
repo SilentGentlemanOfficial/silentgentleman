@@ -6,7 +6,7 @@ const bookLinks = {
   "good_to_great": "https://www.amazon.com/s?k=Good%20to%20Great%20Jim%20Collins",
   "millionaire_mind": "https://www.amazon.com/s?k=Secrets%20of%20the%20Millionaire%20Mind%20T.%20Harv%20Eker",
   "laws_of_power": "https://www.amazon.com/s?k=The%2048%20Laws%20of%20Power%20Robert%20Greene",
-  "kjv_bible": "https://www.amazon.com/s?k=The%20King%20James%20Study%20Bible%20King%20James%20Version",
+  "kjv_bible": "https://a.co/d/0fjUh6SH",
   "four_hour_workweek": "https://www.amazon.com/s?k=The%204-Hour%20Workweek%20Timothy%20Ferriss",
   "rich_dad": "https://www.amazon.com/s?k=Rich%20Dad%20Poor%20Dad%20Robert%20T.%20Kiyosaki",
   "atomic_habits": "https://www.amazon.com/s?k=Atomic%20Habits%20James%20Clear",
