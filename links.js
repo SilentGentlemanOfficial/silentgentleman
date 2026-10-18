@@ -12,7 +12,7 @@ const bookLinks = {
   "atomic_habits": "https://www.amazon.com/s?k=Atomic%20Habits%20James%20Clear",
   "huckleberry_finn": "https://www.amazon.com/s?k=The%20Adventures%20of%20Huckleberry%20Finn%20Mark%20Twain",
   "moby_dick": "https://www.amazon.com/s?k=Moby-Dick%20Herman%20Melville",
-  "art_of_war": "https://www.amazon.com/s?k=The%20Art%20of%20War%20and%20Other%20Classics%20of%20Eastern%20Thought%20Sun%20Tzu%20and%20other%20authors",
+  "art_of_war": "https://a.co/d/05Rd38lw",
   "patriot_history": "https://www.amazon.com/s?k=A%20Patriot%E2%80%99s%20History%20of%20the%20United%20States%20Larry%20Schweikart%20%26%20Michael%20Allen",
   "nineteen_eighty_four": "https://www.amazon.com/s?k=1984%20George%20Orwell",
   "uncle_tom": "https://a.co/d/0iR3Kh1y",
