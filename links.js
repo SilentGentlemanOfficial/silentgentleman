@@ -15,7 +15,7 @@ const bookLinks = {
   "art_of_war": "https://www.amazon.com/s?k=The%20Art%20of%20War%20and%20Other%20Classics%20of%20Eastern%20Thought%20Sun%20Tzu%20and%20other%20authors",
   "patriot_history": "https://www.amazon.com/s?k=A%20Patriot%E2%80%99s%20History%20of%20the%20United%20States%20Larry%20Schweikart%20%26%20Michael%20Allen",
   "nineteen_eighty_four": "https://www.amazon.com/s?k=1984%20George%20Orwell",
-  "uncle_tom": "https://www.amazon.com/s?k=Uncle%20Tom%E2%80%99s%20Cabin%20Harriet%20Beecher%20Stowe",
+  "uncle_tom": "https://a.co/d/0iR3Kh1y",
   "animal_farm": "https://www.amazon.com/s?k=Animal%20Farm%20George%20Orwell",
   "win_friends": "https://www.amazon.com/s?k=How%20to%20Win%20Friends%20%26%20Influence%20People%20Dale%20Carnegie",
   "tuttle_twins": "https://a.co/d/0ee6ZMpV"
